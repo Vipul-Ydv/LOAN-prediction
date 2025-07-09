@@ -1,0 +1,1001 @@
+age,income,education,credit_score,loan_amount,loan_term,employment_status,marital_status,loan_approved
+59,24018,Bachelors,312.0,36131,36,Employed,Divorced,No
+49,31302,Bachelors,512.0,38870,36,Unemployed,Divorced,No
+35,87506,,541.0,43011,24,Employed,Divorced,No
+63,61157,High School,792.0,44382,48,Self-Employed,Single,Yes
+28,74917,Bachelors,,46475,60,Self-Employed,Single,No
+41,112738,PhD,637.0,26607,36,Unemployed,Divorced,No
+59,116646,PhD,472.0,29968,60,Employed,Divorced,No
+39,103122,PhD,463.0,38398,36,Employed,Divorced,No
+43,44519,High School,764.0,16908,60,Employed,Single,Yes
+31,116809,Bachelors,796.0,31423,48,Self-Employed,Divorced,Yes
+31,107487,PhD,694.0,48615,24,Employed,Divorced,Yes
+44,76819,High School,607.0,14171,48,Unemployed,Married,No
+56,100910,PhD,482.0,17721,12,Self-Employed,Married,No
+60,140430,Masters,809.0,21616,24,Self-Employed,Single,Yes
+44,91324,Bachelors,845.0,47512,48,Employed,Married,Yes
+23,25408,Bachelors,526.0,43458,12,Unemployed,Married,No
+42,79379,High School,735.0,12659,36,Self-Employed,Married,Yes
+22,45053,High School,721.0,48369,36,Self-Employed,Single,Yes
+44,29446,Bachelors,320.0,16704,60,Employed,Married,No
+64,20922,PhD,696.0,37793,24,Employed,Single,No
+50,118723,PhD,404.0,36226,36,Unemployed,Divorced,No
+58,71356,,491.0,28852,24,Employed,Married,No
+22,30789,PhD,316.0,37082,36,Unemployed,Single,No
+41,117720,High School,419.0,27794,60,Self-Employed,Married,No
+53,86656,High School,692.0,46420,48,Unemployed,Divorced,No
+32,64028,PhD,724.0,18379,60,Unemployed,,No
+42,84484,High School,428.0,12006,12,Unemployed,Single,No
+64,52154,Bachelors,429.0,13682,36,Self-Employed,Single,No
+45,102870,Bachelors,328.0,38840,12,Employed,Divorced,No
+47,22336,PhD,396.0,37430,12,Self-Employed,Divorced,No
+62,123677,Bachelors,309.0,28091,24,Employed,Divorced,No
+48,87779,Bachelors,541.0,37983,36,Unemployed,Single,No
+36,39029,,531.0,28989,12,Unemployed,Divorced,No
+35,79201,Masters,583.0,14915,48,Unemployed,,No
+64,52265,Bachelors,499.0,47552,12,Unemployed,Divorced,No
+23,122916,PhD,378.0,23990,48,Unemployed,,No
+57,132250,Masters,472.0,29734,24,Employed,Married,No
+27,136553,High School,766.0,19824,12,Employed,Divorced,Yes
+41,63872,High School,715.0,41081,60,Unemployed,Married,No
+29,66197,High School,748.0,16033,24,Self-Employed,,Yes
+59,145733,PhD,386.0,47736,48,Self-Employed,Single,No
+38,75180,Bachelors,400.0,21241,24,Unemployed,Married,No
+24,43710,High School,307.0,10939,12,Employed,Married,No
+45,49486,PhD,499.0,40063,36,Self-Employed,Single,No
+34,91907,Masters,804.0,39464,36,Self-Employed,Single,Yes
+29,148876,Bachelors,386.0,16185,48,Self-Employed,Single,No
+46,91895,Masters,342.0,32045,48,Unemployed,Married,No
+22,84435,PhD,684.0,49769,36,Self-Employed,Married,Yes
+40,60631,High School,734.0,24167,48,Self-Employed,Married,Yes
+48,149038,High School,707.0,41412,24,Self-Employed,Single,Yes
+27,121532,PhD,782.0,26625,60,Self-Employed,Divorced,Yes
+64,40103,High School,316.0,44188,60,Employed,Married,No
+28,84772,Bachelors,447.0,32076,24,Unemployed,Divorced,No
+55,146108,,576.0,49605,60,Unemployed,Single,No
+34,34382,Masters,,24029,12,Employed,Married,No
+37,104291,PhD,665.0,27973,24,Employed,Divorced,Yes
+56,121195,Bachelors,527.0,44121,48,Unemployed,Married,No
+60,23756,Bachelors,735.0,36433,24,Self-Employed,Married,No
+24,40609,PhD,698.0,48309,36,Self-Employed,Married,Yes
+22,134074,PhD,510.0,6932,48,Unemployed,Divorced,No
+26,36478,High School,690.0,49254,36,Self-Employed,Single,No
+62,120978,Bachelors,798.0,6757,48,Employed,Married,Yes
+24,59666,PhD,839.0,35722,60,Self-Employed,Single,Yes
+49,95683,PhD,790.0,42853,24,Self-Employed,Single,Yes
+38,119097,Bachelors,741.0,43405,12,Self-Employed,Divorced,Yes
+46,144714,PhD,560.0,6116,48,Unemployed,,No
+64,120420,High School,649.0,48527,48,Employed,Single,Yes
+54,91315,Bachelors,651.0,16691,36,Self-Employed,Married,Yes
+30,97834,High School,819.0,5492,60,Unemployed,Divorced,No
+56,146205,High School,619.0,32882,36,Self-Employed,Married,Yes
+34,34153,High School,437.0,13811,36,Employed,Married,No
+51,129415,High School,849.0,32808,60,Self-Employed,Married,Yes
+35,96325,Bachelors,667.0,29272,12,Employed,Single,Yes
+28,129701,High School,519.0,33399,36,Self-Employed,Married,No
+34,32999,High School,636.0,11474,36,Employed,,No
+43,75318,PhD,522.0,31956,48,Self-Employed,Single,No
+60,20814,Bachelors,659.0,47506,60,Employed,Married,No
+41,135033,Bachelors,628.0,18979,24,Self-Employed,Married,Yes
+36,96077,Masters,762.0,49523,12,Self-Employed,Married,Yes
+38,110474,Bachelors,681.0,47565,12,Unemployed,Married,No
+44,22443,Bachelors,468.0,33328,60,Unemployed,Single,No
+46,95993,Masters,516.0,17867,48,Employed,Married,No
+45,95916,Bachelors,677.0,30851,48,Self-Employed,Married,Yes
+61,93319,Bachelors,418.0,36279,60,Employed,Single,No
+49,145885,Bachelors,489.0,35527,48,Unemployed,Divorced,No
+35,129777,Bachelors,669.0,12866,12,Employed,Divorced,Yes
+21,37368,Masters,448.0,20449,12,Employed,Single,No
+45,35328,Bachelors,787.0,15685,24,Unemployed,Divorced,No
+27,76942,Bachelors,673.0,28544,60,Self-Employed,Single,Yes
+29,111751,Masters,459.0,10451,36,Employed,Married,No
+44,119131,PhD,650.0,26642,36,Unemployed,Married,No
+21,47306,High School,587.0,46316,24,Self-Employed,Divorced,No
+64,105451,PhD,587.0,44954,24,Unemployed,Married,No
+28,59915,Masters,525.0,43870,48,Employed,Divorced,No
+44,57219,High School,822.0,36030,24,Self-Employed,Divorced,Yes
+31,100879,,821.0,35873,24,Self-Employed,Married,Yes
+37,131939,Masters,,5619,36,Unemployed,Married,No
+28,84644,Bachelors,701.0,38650,48,Unemployed,,No
+55,80279,High School,482.0,30372,24,Unemployed,Married,No
+55,73028,Bachelors,787.0,8642,24,Self-Employed,Single,Yes
+53,124263,High School,423.0,33001,48,Self-Employed,Married,No
+25,20126,Masters,713.0,39064,60,Employed,Married,No
+62,72329,Masters,471.0,34290,48,Self-Employed,Single,No
+59,47632,PhD,587.0,19122,36,Employed,Married,No
+61,127099,High School,734.0,29820,60,Unemployed,Married,No
+48,85310,Bachelors,412.0,7895,12,Unemployed,Divorced,No
+27,129945,PhD,421.0,10366,48,Self-Employed,Married,No
+29,75176,PhD,843.0,13711,36,Unemployed,Married,No
+28,139797,PhD,521.0,24596,60,Unemployed,Single,No
+32,106066,Bachelors,338.0,23793,48,Self-Employed,Divorced,No
+54,125500,,796.0,13199,24,Employed,Divorced,Yes
+53,146413,Bachelors,532.0,15717,48,Self-Employed,Divorced,No
+43,64327,PhD,829.0,41191,12,Employed,Married,Yes
+44,88904,Bachelors,448.0,15211,48,Self-Employed,Divorced,No
+57,23797,Masters,696.0,28360,60,Self-Employed,Single,No
+55,67882,Masters,601.0,26542,60,Unemployed,Divorced,No
+64,33718,Masters,659.0,36312,48,Self-Employed,Single,No
+60,54560,Masters,537.0,41435,60,Self-Employed,Divorced,No
+42,96589,,535.0,33247,24,Employed,Divorced,No
+47,42116,PhD,502.0,27357,48,Unemployed,Single,No
+55,56244,PhD,555.0,46045,24,Employed,Divorced,No
+21,121721,PhD,534.0,32691,24,Employed,Divorced,No
+55,21645,Bachelors,644.0,17424,36,Unemployed,Divorced,No
+57,67523,Bachelors,,23852,48,Unemployed,Married,No
+34,144085,Bachelors,765.0,27601,60,Unemployed,Single,No
+23,137718,Bachelors,840.0,23020,24,Self-Employed,Divorced,Yes
+21,39256,Masters,512.0,13155,36,Unemployed,Single,No
+25,121376,Masters,762.0,8583,48,Unemployed,Single,No
+46,120158,Masters,735.0,20515,48,Unemployed,Single,No
+34,73173,High School,582.0,41777,12,Employed,Divorced,No
+59,57430,PhD,762.0,24710,12,Employed,Divorced,Yes
+47,59282,Bachelors,706.0,48178,24,Self-Employed,Single,Yes
+29,139719,Bachelors,387.0,29532,12,Employed,Married,No
+35,83374,Masters,343.0,23601,24,Self-Employed,Single,No
+35,88244,Bachelors,,9967,60,Employed,Married,Yes
+46,31694,Bachelors,577.0,23753,24,Unemployed,Single,No
+62,76264,PhD,720.0,25022,12,Employed,Single,Yes
+33,95060,Masters,652.0,48463,60,Self-Employed,Single,Yes
+52,117416,PhD,814.0,14135,12,Employed,Divorced,Yes
+59,77545,High School,318.0,10722,24,Unemployed,,No
+52,138195,High School,322.0,32413,36,Self-Employed,Married,No
+24,59224,High School,,32236,48,Unemployed,Single,No
+50,122516,Masters,329.0,20514,12,Unemployed,Divorced,No
+57,117945,Bachelors,407.0,48896,24,Self-Employed,Divorced,No
+43,33224,,666.0,42212,60,Unemployed,Married,No
+59,60738,Masters,580.0,45386,12,Unemployed,Divorced,No
+35,45150,Bachelors,427.0,25331,12,Employed,Married,No
+63,83731,PhD,528.0,23060,48,Unemployed,Married,No
+49,69688,High School,410.0,6196,24,Unemployed,Married,No
+56,119929,PhD,435.0,17297,36,Unemployed,Divorced,No
+33,128618,High School,,7787,60,Unemployed,Married,No
+52,93509,Masters,485.0,28816,24,Self-Employed,Married,No
+27,28577,High School,428.0,45695,60,Employed,Single,No
+42,28070,Masters,560.0,24702,12,Unemployed,Married,No
+48,146161,PhD,814.0,30242,48,Unemployed,Married,No
+22,28666,Masters,748.0,7176,48,Self-Employed,Single,No
+62,77761,PhD,,25127,36,Unemployed,Single,No
+26,141178,Bachelors,782.0,46560,48,Self-Employed,Divorced,Yes
+48,56368,Bachelors,523.0,32228,12,Employed,Married,No
+48,26783,Bachelors,790.0,25208,36,Employed,Divorced,No
+64,131530,Masters,772.0,33482,24,Unemployed,Divorced,No
+64,61914,Bachelors,309.0,14171,48,Unemployed,Single,No
+40,90507,High School,704.0,40219,36,Unemployed,Divorced,No
+50,147738,PhD,601.0,38396,12,Self-Employed,Married,Yes
+31,99026,PhD,530.0,47589,60,Unemployed,Single,No
+48,135893,High School,365.0,45546,60,Unemployed,Married,No
+45,131255,Masters,411.0,8696,12,Employed,Married,No
+59,130616,Masters,312.0,25058,12,Unemployed,Single,No
+53,87526,PhD,692.0,25313,60,Employed,Married,Yes
+21,90835,,799.0,24149,36,Unemployed,Single,No
+47,65765,Masters,533.0,46075,60,Employed,Married,No
+33,39956,Masters,613.0,9956,12,Unemployed,Single,No
+61,107895,High School,311.0,15195,48,Employed,Divorced,No
+23,66240,High School,508.0,22076,24,Self-Employed,Married,No
+59,141008,Bachelors,313.0,6105,48,Employed,Single,No
+26,57148,Masters,717.0,20417,48,Employed,Married,Yes
+28,114270,Masters,736.0,29729,12,Employed,Married,Yes
+47,147978,High School,676.0,35099,60,Unemployed,Married,No
+29,24757,Masters,319.0,37598,36,Unemployed,Single,No
+57,39097,PhD,369.0,34961,48,Unemployed,Divorced,No
+53,30395,High School,510.0,17602,60,Self-Employed,Divorced,No
+62,36241,Bachelors,400.0,14256,36,Self-Employed,,No
+64,123892,High School,431.0,25584,48,Employed,Single,No
+44,47696,Masters,680.0,39681,36,Self-Employed,Divorced,Yes
+35,135654,Bachelors,431.0,30792,60,Employed,Single,No
+52,90480,High School,319.0,26904,24,Employed,Married,No
+52,66163,PhD,835.0,48361,60,Employed,Married,Yes
+44,39816,PhD,526.0,39540,12,Self-Employed,Divorced,No
+61,69840,High School,453.0,31536,36,Unemployed,Single,No
+32,122547,PhD,768.0,24164,24,Self-Employed,,Yes
+59,72853,PhD,704.0,17996,36,Employed,Single,Yes
+22,44917,PhD,501.0,7871,36,Employed,Single,No
+23,116731,Bachelors,337.0,27626,48,Self-Employed,,No
+57,41566,PhD,487.0,15521,12,Employed,Single,No
+37,95452,PhD,356.0,48410,36,Employed,Married,No
+22,82823,PhD,319.0,6132,60,Self-Employed,Married,No
+22,141392,Bachelors,572.0,38467,60,Self-Employed,Married,No
+48,40806,High School,418.0,19534,48,Self-Employed,Single,No
+43,95520,Masters,815.0,28854,12,Employed,Married,Yes
+57,21759,PhD,520.0,47998,12,Employed,Single,No
+52,146092,High School,825.0,44065,60,Unemployed,Married,No
+53,61949,PhD,814.0,12812,24,Unemployed,Married,No
+21,112374,Bachelors,635.0,9557,48,Self-Employed,Divorced,Yes
+39,22482,High School,354.0,7179,48,Unemployed,Divorced,No
+22,44442,Bachelors,799.0,48798,60,Employed,Divorced,Yes
+64,53719,PhD,,14065,60,Unemployed,Single,No
+46,78066,PhD,,13275,24,Employed,Single,No
+52,113501,Bachelors,458.0,40948,24,Self-Employed,Married,No
+26,22079,Masters,487.0,25700,12,Self-Employed,Married,No
+52,22717,Bachelors,359.0,44464,48,Employed,Married,No
+24,79676,PhD,618.0,47351,48,Unemployed,Married,No
+31,47952,Bachelors,510.0,32794,60,Self-Employed,Single,No
+37,106444,,705.0,33783,12,Self-Employed,Married,Yes
+58,62460,Bachelors,408.0,21998,48,Unemployed,Married,No
+44,110397,Masters,375.0,18869,12,Unemployed,Divorced,No
+25,92847,Masters,841.0,49525,12,Employed,Married,Yes
+54,113607,Bachelors,613.0,33152,60,Unemployed,Married,No
+26,109106,Bachelors,416.0,25954,12,Unemployed,Married,No
+42,38449,High School,318.0,36555,24,Unemployed,Single,No
+31,53536,PhD,731.0,21654,24,Employed,Divorced,Yes
+36,84077,Masters,649.0,40236,36,Employed,Married,Yes
+53,58258,High School,482.0,20042,60,Self-Employed,Married,No
+29,68302,,412.0,30966,36,Employed,Divorced,No
+26,145937,PhD,482.0,49314,24,Self-Employed,Married,No
+36,48865,High School,780.0,19270,36,Unemployed,Single,No
+49,26645,Masters,445.0,35908,60,Self-Employed,Married,No
+23,139771,High School,412.0,20523,60,Self-Employed,Single,No
+40,58000,Masters,775.0,24991,12,Unemployed,Single,No
+56,46737,Bachelors,602.0,15775,48,Self-Employed,Married,Yes
+39,31485,PhD,417.0,17265,12,Employed,Divorced,No
+46,58565,PhD,460.0,24459,60,Employed,Single,No
+23,45522,PhD,700.0,21673,24,Employed,Divorced,Yes
+39,139614,Bachelors,497.0,32056,24,Employed,Married,No
+40,85155,Masters,559.0,11614,12,Self-Employed,Single,No
+52,75168,Bachelors,346.0,41020,60,Self-Employed,Married,No
+27,72487,PhD,698.0,12415,24,Unemployed,,No
+61,149948,Bachelors,,28155,60,Self-Employed,Married,No
+53,32342,Bachelors,423.0,48884,24,Self-Employed,Married,No
+60,60806,,374.0,21964,60,Self-Employed,Single,No
+59,68770,,436.0,42726,36,Unemployed,Married,No
+38,98623,High School,699.0,42044,60,Employed,Married,Yes
+60,123177,High School,804.0,42544,60,Self-Employed,Married,Yes
+21,119785,Bachelors,,37252,12,Unemployed,Single,No
+31,95629,High School,437.0,8832,36,Unemployed,Divorced,No
+48,140993,High School,349.0,30275,48,Unemployed,Divorced,No
+45,72603,Bachelors,553.0,19901,12,Employed,Married,No
+43,146944,Bachelors,725.0,43213,48,Self-Employed,Single,Yes
+51,132726,PhD,846.0,39148,24,Unemployed,Married,No
+50,101974,High School,601.0,47633,48,Employed,Divorced,Yes
+62,125947,Masters,648.0,27918,60,Unemployed,Single,No
+55,46399,Bachelors,,24540,48,Unemployed,Divorced,No
+27,148177,PhD,373.0,16580,12,Unemployed,Divorced,No
+36,105382,Masters,560.0,43402,12,Unemployed,Single,No
+46,101244,High School,655.0,43578,48,Unemployed,Single,No
+22,129575,PhD,559.0,29917,12,Employed,Married,No
+21,135520,Bachelors,594.0,27318,12,Self-Employed,Married,No
+32,130904,Masters,612.0,15179,48,Self-Employed,Divorced,Yes
+25,96534,Bachelors,481.0,17251,36,Self-Employed,Single,No
+57,75106,High School,663.0,24493,36,Self-Employed,Single,Yes
+52,132599,Masters,487.0,25466,24,Employed,Married,No
+29,50678,High School,842.0,35206,12,Employed,Divorced,Yes
+61,96218,High School,847.0,24624,48,Employed,Divorced,Yes
+55,83230,PhD,707.0,31564,12,Unemployed,Married,No
+39,134684,Bachelors,713.0,27412,60,Unemployed,Single,No
+36,94055,,641.0,32990,12,Unemployed,Married,No
+23,76373,High School,519.0,40517,12,Self-Employed,Married,No
+40,51480,High School,462.0,18156,36,Unemployed,Married,No
+44,105230,Masters,519.0,28064,48,Self-Employed,Married,No
+53,88836,High School,569.0,30711,12,Unemployed,Single,No
+44,92258,PhD,699.0,35106,36,Self-Employed,Married,Yes
+31,59986,PhD,481.0,21589,24,Unemployed,Single,No
+28,44160,PhD,504.0,28736,36,Unemployed,,No
+56,105595,PhD,527.0,25975,36,Employed,Divorced,No
+58,121358,High School,,41218,36,Unemployed,Single,No
+60,99111,Masters,740.0,12214,12,Unemployed,Divorced,No
+40,84929,Masters,832.0,35581,12,Employed,Married,Yes
+55,93506,Masters,495.0,25195,24,Self-Employed,Married,No
+45,54911,Masters,818.0,49582,60,Employed,Married,Yes
+55,107127,Bachelors,369.0,32127,60,Employed,Single,No
+45,51821,Masters,698.0,10141,60,Self-Employed,Divorced,Yes
+49,95039,Bachelors,502.0,33884,24,Unemployed,Single,No
+38,80535,Bachelors,447.0,29885,60,Self-Employed,Single,No
+38,133453,PhD,771.0,7708,60,Unemployed,Married,No
+22,104458,Bachelors,498.0,23375,36,Unemployed,Divorced,No
+55,32175,High School,725.0,20088,12,Self-Employed,Married,No
+36,139235,Bachelors,791.0,49602,12,Employed,Single,Yes
+61,74771,PhD,441.0,15014,36,Self-Employed,Married,No
+56,126660,Bachelors,612.0,8273,36,Unemployed,Divorced,No
+53,147157,High School,464.0,42306,36,Self-Employed,Married,No
+24,141300,High School,613.0,35881,12,Self-Employed,Divorced,Yes
+53,106925,High School,320.0,36486,60,Unemployed,Divorced,No
+34,133374,PhD,381.0,17541,36,Employed,Married,No
+41,86358,PhD,430.0,13712,24,Self-Employed,Single,No
+40,37327,Masters,604.0,14168,36,Unemployed,Married,No
+28,67057,PhD,670.0,8551,48,Unemployed,Single,No
+27,26150,High School,683.0,17297,36,Self-Employed,Single,No
+23,24425,High School,744.0,48733,12,Employed,Married,No
+37,143654,PhD,724.0,32128,36,Self-Employed,Single,Yes
+53,36032,Bachelors,460.0,7832,48,Employed,Single,No
+32,22198,PhD,477.0,33483,24,Employed,Married,No
+42,80500,PhD,789.0,27063,60,Employed,Married,Yes
+42,73394,High School,626.0,27963,36,Employed,Married,Yes
+50,40079,Masters,588.0,18422,48,Self-Employed,Single,No
+58,56220,High School,653.0,37920,48,Unemployed,Divorced,No
+58,61874,Masters,327.0,16156,24,Unemployed,Single,No
+28,33859,High School,342.0,16108,12,Unemployed,Divorced,No
+47,70460,PhD,722.0,36845,36,Unemployed,Married,No
+47,51419,High School,476.0,7800,48,Unemployed,Divorced,No
+54,138865,High School,,43078,24,Unemployed,Married,No
+41,28705,High School,793.0,47712,60,Self-Employed,Married,No
+50,62880,PhD,497.0,7610,48,Employed,Divorced,No
+53,149838,PhD,816.0,17067,24,Unemployed,,No
+48,43236,PhD,813.0,38872,12,Self-Employed,Divorced,Yes
+53,107955,PhD,321.0,15728,12,Unemployed,Married,No
+25,105514,Masters,411.0,34566,48,Unemployed,Single,No
+39,123145,Masters,356.0,34783,48,Employed,Single,No
+24,35358,Bachelors,,25583,36,Employed,Married,No
+55,119713,PhD,397.0,25238,24,Employed,Married,No
+37,114914,Masters,443.0,12263,48,Unemployed,,No
+64,122870,High School,734.0,6914,36,Unemployed,Single,No
+48,96918,PhD,385.0,28749,36,Unemployed,Divorced,No
+50,139179,Bachelors,643.0,24456,48,Employed,Married,Yes
+49,136243,Bachelors,593.0,30582,12,Self-Employed,Married,No
+26,34596,Bachelors,542.0,5406,24,Unemployed,Divorced,No
+55,53572,High School,331.0,18689,24,Unemployed,Married,No
+61,98757,Masters,690.0,37934,12,Unemployed,Single,No
+57,21279,High School,576.0,38276,48,Self-Employed,Divorced,No
+44,83197,PhD,831.0,41432,24,Unemployed,Single,No
+49,131496,Bachelors,453.0,24873,48,Self-Employed,Single,No
+51,82516,High School,682.0,18050,48,Unemployed,Single,No
+55,27083,High School,367.0,5680,36,Self-Employed,Divorced,No
+53,140674,Masters,513.0,23908,12,Unemployed,Married,No
+41,140307,Masters,675.0,23504,48,Employed,,Yes
+52,146457,Bachelors,512.0,26644,60,Employed,Single,No
+43,129397,High School,378.0,42125,12,Employed,Single,No
+53,37771,High School,680.0,6363,24,Employed,Married,No
+23,49975,Masters,357.0,47291,36,Unemployed,Married,No
+38,65648,High School,325.0,40060,24,Employed,Divorced,No
+45,145641,High School,746.0,6538,24,Self-Employed,Married,Yes
+62,68285,High School,365.0,41176,12,Employed,Divorced,No
+51,39063,Masters,553.0,46520,24,Employed,Divorced,No
+23,87642,Bachelors,343.0,30675,48,Employed,Divorced,No
+60,110093,PhD,396.0,23287,24,Unemployed,,No
+44,134390,Bachelors,526.0,5174,36,Employed,Divorced,No
+52,106143,PhD,735.0,31732,36,Self-Employed,Single,Yes
+42,57599,High School,678.0,39998,60,Employed,Married,Yes
+43,71920,Bachelors,477.0,42055,36,Employed,Single,No
+22,48529,,726.0,17112,24,Employed,Divorced,Yes
+47,55954,Masters,606.0,44874,36,Self-Employed,Married,Yes
+62,47856,Masters,803.0,14689,12,Employed,Single,Yes
+22,22573,Bachelors,567.0,49814,36,Self-Employed,Single,No
+46,98344,Bachelors,307.0,24555,48,Self-Employed,Divorced,No
+37,55367,High School,807.0,38919,12,Employed,Single,Yes
+60,122337,Bachelors,775.0,12619,60,Self-Employed,Single,Yes
+53,126732,High School,596.0,11033,48,Unemployed,Single,No
+29,119608,High School,463.0,46328,24,Employed,Single,No
+63,80774,Masters,784.0,9946,24,Employed,Single,Yes
+59,43752,Masters,371.0,29618,24,Self-Employed,Divorced,No
+49,75029,PhD,537.0,39675,48,Self-Employed,Divorced,No
+62,37685,Masters,403.0,41258,48,Employed,Single,No
+46,71693,Masters,509.0,23919,48,Unemployed,Divorced,No
+55,136739,Bachelors,767.0,9173,12,Self-Employed,Divorced,Yes
+45,75961,Masters,753.0,48833,12,Self-Employed,Married,Yes
+44,126937,PhD,567.0,31400,24,Unemployed,Single,No
+33,144956,Bachelors,685.0,9769,36,Unemployed,Divorced,No
+27,96908,PhD,686.0,42564,24,Employed,Divorced,Yes
+56,145537,Masters,,19211,60,Unemployed,Single,No
+40,146678,PhD,582.0,28255,12,Employed,Married,No
+21,94532,Bachelors,339.0,32962,48,Unemployed,Single,No
+28,101994,High School,785.0,24356,12,Self-Employed,Married,Yes
+36,76133,PhD,519.0,25306,48,Employed,,No
+34,117425,PhD,428.0,9997,60,Employed,Single,No
+32,145055,Bachelors,819.0,22376,60,Employed,Single,Yes
+43,81268,Bachelors,559.0,45880,12,Unemployed,Single,No
+35,112201,PhD,665.0,43055,48,Self-Employed,Married,Yes
+48,58243,,843.0,15578,60,Employed,Married,Yes
+54,77384,PhD,823.0,23624,24,Employed,Divorced,Yes
+22,51653,,315.0,44194,24,Employed,Single,No
+52,46657,High School,428.0,49367,48,Employed,Married,No
+43,59952,High School,408.0,5389,12,Self-Employed,Married,No
+42,42180,Masters,832.0,38767,60,Unemployed,Married,No
+45,117432,PhD,568.0,6855,12,Self-Employed,Single,No
+42,141829,High School,461.0,45893,24,Employed,Divorced,No
+42,148377,PhD,559.0,18794,60,Self-Employed,Married,No
+62,98411,Bachelors,401.0,40531,12,Employed,Single,No
+26,21622,High School,805.0,9986,36,Unemployed,Married,No
+35,68756,Masters,546.0,37298,48,Unemployed,Married,No
+63,60809,Bachelors,836.0,6481,48,Unemployed,Divorced,No
+57,36725,Masters,430.0,8731,36,Employed,Married,No
+53,81396,Bachelors,652.0,21835,24,Self-Employed,Married,Yes
+28,71226,High School,495.0,32798,60,Unemployed,Single,No
+64,126296,Masters,681.0,31113,48,Employed,Single,Yes
+64,101182,Masters,526.0,24477,36,Employed,Divorced,No
+25,102565,Bachelors,775.0,22266,36,Self-Employed,Single,Yes
+59,49402,Masters,776.0,25792,24,Unemployed,Single,No
+24,24263,Bachelors,564.0,25452,24,Employed,Divorced,No
+26,143489,Bachelors,,48526,12,Self-Employed,Married,Yes
+52,116523,Bachelors,785.0,46334,48,Unemployed,Divorced,No
+50,66828,,733.0,16889,12,Self-Employed,Single,Yes
+55,140824,High School,510.0,29335,36,Self-Employed,Divorced,No
+60,67924,Bachelors,676.0,16254,60,Employed,Married,Yes
+36,94182,PhD,694.0,26074,60,Employed,Divorced,Yes
+33,113065,Masters,749.0,16442,24,Employed,Single,Yes
+62,79052,PhD,663.0,42327,60,Self-Employed,Single,Yes
+50,31664,High School,756.0,21199,60,Employed,Divorced,No
+39,55737,PhD,525.0,12291,60,Self-Employed,Married,No
+37,121332,Masters,430.0,45928,36,Self-Employed,Divorced,No
+39,109563,PhD,775.0,5112,60,Employed,Married,Yes
+48,49373,High School,576.0,26515,60,Unemployed,Married,No
+46,137369,Bachelors,,24581,60,Unemployed,Divorced,No
+57,56397,PhD,517.0,31500,12,Unemployed,Married,No
+46,148575,High School,489.0,37026,36,Self-Employed,Single,No
+43,106145,High School,716.0,21523,24,Self-Employed,Divorced,Yes
+29,121371,Masters,845.0,6424,12,Self-Employed,Married,Yes
+32,58709,Masters,340.0,24552,48,Employed,Single,No
+21,136074,PhD,,15808,36,Self-Employed,Divorced,Yes
+21,81120,Bachelors,637.0,43811,36,Employed,Single,Yes
+54,39250,High School,613.0,11989,48,Employed,Single,No
+52,41172,PhD,374.0,28620,48,Unemployed,Single,No
+45,31555,High School,578.0,44029,48,Unemployed,Married,No
+60,107410,High School,475.0,5887,24,Unemployed,Divorced,No
+21,98617,Bachelors,572.0,36802,60,Employed,Divorced,No
+36,73276,Bachelors,588.0,24488,36,Employed,Married,No
+59,77492,,571.0,35013,60,Employed,,No
+25,73002,Bachelors,365.0,21402,60,Self-Employed,Single,No
+42,140103,Bachelors,782.0,26205,48,Employed,Divorced,Yes
+49,144938,PhD,547.0,31049,24,Unemployed,Married,No
+23,109599,Bachelors,455.0,17253,12,Unemployed,Single,No
+32,92355,Masters,346.0,23990,24,Employed,Married,No
+46,111248,High School,753.0,12846,60,Employed,Single,Yes
+36,44762,High School,500.0,30027,24,Unemployed,Single,No
+57,31046,High School,423.0,44200,48,Employed,Divorced,No
+42,116999,High School,300.0,8765,12,Unemployed,Single,No
+49,144130,PhD,490.0,20950,48,Self-Employed,Married,No
+34,136021,High School,815.0,14741,12,Unemployed,Divorced,No
+48,48769,High School,741.0,27742,60,Self-Employed,Married,Yes
+25,73302,High School,442.0,29703,12,Employed,Single,No
+50,43150,High School,490.0,43709,12,Employed,Married,No
+25,88247,Masters,832.0,42623,12,Self-Employed,Married,Yes
+32,24853,High School,526.0,27931,24,Employed,Single,No
+36,114613,Masters,612.0,28580,24,Self-Employed,Divorced,Yes
+46,140900,PhD,,20166,60,Employed,Married,Yes
+46,109399,Bachelors,759.0,34240,12,Unemployed,Single,No
+41,41792,,700.0,30991,36,Employed,Divorced,Yes
+59,79129,Bachelors,692.0,43556,60,Unemployed,Divorced,No
+56,126019,Bachelors,506.0,37969,12,Unemployed,Divorced,No
+53,94478,PhD,509.0,15561,12,Self-Employed,Married,No
+50,133811,Bachelors,414.0,21901,24,Employed,Married,No
+57,134130,Masters,550.0,45505,60,Self-Employed,Married,No
+43,87298,Bachelors,518.0,35020,12,Employed,,No
+30,51987,Bachelors,,30917,12,Unemployed,Married,No
+25,35850,Bachelors,742.0,6988,60,Unemployed,,No
+56,32112,High School,653.0,49505,36,Employed,Married,No
+54,141789,High School,849.0,19256,60,Employed,Married,Yes
+51,44058,Masters,441.0,27192,60,Self-Employed,Divorced,No
+30,65420,Masters,800.0,33230,36,Employed,Married,Yes
+39,58890,High School,846.0,44930,60,Employed,Single,Yes
+52,86017,Masters,,27625,12,Employed,Divorced,Yes
+21,67304,High School,806.0,37088,60,Self-Employed,Single,Yes
+25,52921,PhD,580.0,19114,36,Employed,Divorced,No
+24,125921,Bachelors,723.0,46167,48,Unemployed,Divorced,No
+36,21524,Bachelors,569.0,43401,60,Self-Employed,,No
+44,120424,Masters,453.0,10755,24,Self-Employed,Single,No
+36,35048,High School,382.0,15825,12,Unemployed,Divorced,No
+22,55111,High School,725.0,27693,12,Unemployed,Married,No
+48,57904,Masters,574.0,9117,24,Unemployed,Divorced,No
+52,74912,High School,583.0,29729,24,Employed,Divorced,No
+47,54008,PhD,472.0,37182,60,Unemployed,Divorced,No
+40,20060,Bachelors,626.0,33890,24,Employed,Divorced,No
+44,94666,Masters,362.0,34340,48,Self-Employed,Divorced,No
+32,103559,Masters,372.0,6518,36,Self-Employed,Divorced,No
+55,75337,High School,674.0,35949,24,Unemployed,Married,No
+53,130616,Masters,807.0,27547,24,Employed,Divorced,Yes
+53,33350,PhD,697.0,21346,48,Unemployed,Single,No
+63,44354,High School,419.0,7600,12,Unemployed,Married,No
+57,65186,High School,736.0,34267,12,Employed,Single,Yes
+32,48145,High School,764.0,41322,60,Unemployed,Divorced,No
+23,54020,High School,585.0,31990,48,Self-Employed,Single,No
+21,106123,PhD,564.0,21193,36,Unemployed,Divorced,No
+53,126667,High School,619.0,35109,36,Employed,Divorced,Yes
+60,95186,Masters,675.0,24233,48,Employed,Married,Yes
+30,105469,PhD,388.0,21194,36,Self-Employed,Married,No
+63,40581,Bachelors,502.0,39510,12,Employed,Divorced,No
+64,108929,Bachelors,633.0,6306,36,Employed,Married,Yes
+49,43051,Masters,521.0,8849,36,Self-Employed,Single,No
+33,71474,Masters,340.0,17360,48,Unemployed,Married,No
+32,111748,PhD,367.0,34231,48,Self-Employed,Married,No
+51,145995,Bachelors,813.0,41963,36,Unemployed,Single,No
+22,134618,Bachelors,426.0,23689,24,Self-Employed,Married,No
+55,89626,,554.0,34084,48,Unemployed,Divorced,No
+43,26960,Bachelors,315.0,45387,60,Self-Employed,Single,No
+37,55772,Bachelors,776.0,14280,60,Unemployed,Divorced,No
+46,41520,High School,361.0,7642,12,Self-Employed,Single,No
+28,69481,Masters,,47137,36,Unemployed,Divorced,No
+49,56408,High School,567.0,19296,24,Self-Employed,Divorced,No
+46,114006,Bachelors,334.0,20438,12,Employed,Married,No
+30,148496,PhD,793.0,42525,36,Unemployed,Divorced,No
+46,77134,PhD,768.0,7994,48,Self-Employed,Married,Yes
+54,40491,Bachelors,624.0,39039,60,Unemployed,Single,No
+61,21341,Bachelors,603.0,6813,24,Unemployed,Divorced,No
+27,64623,PhD,575.0,32491,60,Self-Employed,Divorced,No
+24,110327,High School,500.0,23845,48,Unemployed,Single,No
+31,20338,High School,744.0,46243,36,Self-Employed,Single,No
+49,91431,Bachelors,623.0,42164,48,Employed,Divorced,Yes
+56,32254,High School,334.0,47051,48,Unemployed,Single,No
+45,71860,PhD,781.0,18318,60,Employed,Married,Yes
+41,31344,High School,779.0,22200,24,Unemployed,Single,No
+56,21750,Bachelors,364.0,5082,48,Unemployed,,No
+30,74756,PhD,307.0,6920,60,Unemployed,Divorced,No
+57,87957,High School,600.0,45585,24,Self-Employed,Married,No
+29,125423,Masters,642.0,16683,36,Employed,Single,Yes
+44,78053,PhD,730.0,16336,36,Unemployed,Married,No
+55,90855,PhD,723.0,20596,12,Self-Employed,Married,Yes
+55,35896,Masters,631.0,7093,60,Unemployed,Married,No
+56,75761,Masters,737.0,17905,24,Self-Employed,Divorced,Yes
+38,82552,PhD,473.0,29351,48,Unemployed,Single,No
+59,140075,Masters,826.0,35981,36,Employed,Divorced,Yes
+52,97454,Bachelors,325.0,13367,24,Employed,Single,No
+44,146522,Bachelors,705.0,10285,60,Unemployed,Single,No
+43,138681,Bachelors,531.0,48664,12,Self-Employed,Divorced,No
+52,110600,PhD,832.0,42705,36,Unemployed,Married,No
+57,142732,Masters,849.0,21753,24,Self-Employed,Married,Yes
+32,132153,Masters,804.0,23485,24,Unemployed,Single,No
+33,142926,High School,,17977,24,Self-Employed,Divorced,No
+43,47935,High School,431.0,24874,60,Employed,Married,No
+45,57641,Masters,754.0,12674,60,Unemployed,Married,No
+55,49711,Masters,647.0,34038,60,Employed,Single,Yes
+61,90342,Masters,839.0,34315,48,Employed,Single,Yes
+50,126896,PhD,705.0,8676,24,Unemployed,Divorced,No
+37,32182,Masters,375.0,7426,36,Unemployed,Single,No
+40,107833,High School,791.0,29473,60,Self-Employed,Married,Yes
+45,76276,PhD,493.0,7962,60,Self-Employed,Married,No
+42,39541,Masters,461.0,34943,24,Employed,Married,No
+33,114457,High School,646.0,5859,60,Self-Employed,Married,Yes
+39,102310,PhD,660.0,49816,48,Self-Employed,Divorced,Yes
+56,64813,Masters,386.0,9138,48,Unemployed,Divorced,No
+32,57198,Masters,561.0,40192,60,Self-Employed,Single,No
+61,28820,Masters,513.0,30640,24,Employed,Single,No
+39,44070,PhD,,15409,24,Self-Employed,Single,No
+32,89768,High School,582.0,9017,24,Employed,Divorced,No
+29,31122,High School,766.0,15451,12,Unemployed,Married,No
+27,100559,Bachelors,679.0,33327,60,Employed,Single,Yes
+48,93543,Masters,661.0,15278,24,Self-Employed,Married,Yes
+34,103441,Bachelors,748.0,29944,48,Unemployed,Single,No
+51,61786,Bachelors,740.0,48764,36,Self-Employed,Single,Yes
+39,114934,High School,392.0,6134,36,Unemployed,Single,No
+36,119804,PhD,723.0,35131,24,Unemployed,Single,No
+25,26737,PhD,441.0,42887,36,Self-Employed,Single,No
+55,56062,High School,590.0,43462,36,Self-Employed,Married,No
+32,74237,PhD,731.0,27520,12,Unemployed,Single,No
+45,71571,Bachelors,348.0,26869,48,Unemployed,Married,No
+41,45510,Masters,601.0,41932,48,Self-Employed,Divorced,Yes
+56,39426,High School,489.0,10039,12,Employed,Single,No
+43,57265,Masters,435.0,26281,12,Self-Employed,Married,No
+36,37850,,703.0,15442,36,Unemployed,Divorced,No
+59,138249,Masters,640.0,13252,60,Self-Employed,Divorced,Yes
+62,86150,PhD,,32586,36,Employed,Divorced,Yes
+59,107312,PhD,662.0,22568,12,Self-Employed,Married,Yes
+34,109613,Bachelors,681.0,25810,48,Unemployed,Single,No
+51,94910,PhD,532.0,6551,36,Self-Employed,Single,No
+25,72375,Bachelors,643.0,17625,60,Unemployed,Married,No
+55,141826,Bachelors,848.0,39397,36,Unemployed,Single,No
+43,55435,Bachelors,828.0,31249,24,Self-Employed,Married,Yes
+49,116443,High School,482.0,6361,36,Unemployed,Single,No
+63,77132,High School,340.0,31149,12,Unemployed,,No
+31,98945,PhD,696.0,9370,48,Employed,Single,Yes
+38,102050,Bachelors,793.0,10283,48,Employed,Married,Yes
+32,149828,High School,632.0,12610,12,Employed,Married,Yes
+29,115402,Bachelors,,48326,24,Employed,Divorced,No
+30,22983,Masters,300.0,19924,12,Unemployed,Married,No
+64,117241,Masters,467.0,49717,36,Self-Employed,Single,No
+37,40662,Masters,318.0,15626,12,Unemployed,Single,No
+58,43510,PhD,631.0,39761,12,Unemployed,Divorced,No
+27,98187,Bachelors,755.0,5869,24,Unemployed,Married,No
+33,60998,Masters,408.0,36552,36,Self-Employed,Divorced,No
+60,76846,High School,567.0,6014,60,Employed,Single,No
+62,114071,Masters,744.0,15103,60,Unemployed,Divorced,No
+29,26640,Masters,539.0,21986,48,Unemployed,Married,No
+47,64547,Masters,600.0,49781,12,Employed,Divorced,No
+22,74620,PhD,402.0,35471,48,Unemployed,Married,No
+25,35317,High School,549.0,38458,24,Self-Employed,Married,No
+49,135608,Bachelors,752.0,30069,60,Unemployed,Single,No
+57,27564,High School,819.0,21873,12,Unemployed,Single,No
+58,47345,Bachelors,452.0,28248,24,Employed,Single,No
+39,133824,PhD,473.0,28624,24,Unemployed,Married,No
+28,114223,PhD,642.0,48516,12,Unemployed,Divorced,No
+21,143372,PhD,730.0,34061,24,Self-Employed,Married,Yes
+42,99273,PhD,623.0,29170,12,Employed,Single,Yes
+37,94859,Bachelors,719.0,13024,12,Employed,Single,Yes
+27,100765,Masters,784.0,21678,36,Self-Employed,Divorced,Yes
+45,130017,Bachelors,711.0,43256,48,Unemployed,Single,No
+24,94038,High School,,25411,24,Employed,Single,No
+56,143618,PhD,412.0,48803,24,Employed,Single,No
+26,72393,PhD,631.0,24296,36,Unemployed,Divorced,No
+51,86081,High School,677.0,31293,36,Unemployed,Married,No
+39,145341,Bachelors,340.0,32172,36,Employed,Single,No
+64,122650,Masters,404.0,26128,60,Unemployed,Divorced,No
+59,49430,Masters,501.0,23257,60,Employed,,No
+47,95532,High School,749.0,17855,60,Unemployed,Divorced,No
+30,47788,Masters,565.0,24642,12,Unemployed,Single,No
+46,115505,Bachelors,509.0,40585,24,Self-Employed,Divorced,No
+39,68543,Bachelors,417.0,25025,48,Unemployed,Single,No
+59,33919,High School,676.0,9458,12,Self-Employed,Married,No
+23,89346,Bachelors,839.0,10307,24,Unemployed,Single,No
+33,116122,PhD,383.0,46701,24,Employed,Divorced,No
+48,59974,High School,753.0,23425,36,Employed,Single,Yes
+40,127309,Bachelors,813.0,48427,36,Unemployed,Married,No
+48,36371,High School,686.0,33273,12,Unemployed,Single,No
+28,65084,Masters,649.0,43506,36,Employed,Divorced,Yes
+61,49629,Bachelors,595.0,10668,24,Unemployed,,No
+59,71184,PhD,557.0,30934,36,Self-Employed,Married,No
+21,81916,Bachelors,380.0,12697,60,Self-Employed,Divorced,No
+23,147293,High School,567.0,29417,36,Self-Employed,Single,No
+33,93972,High School,718.0,21446,24,Self-Employed,Single,Yes
+48,82187,Bachelors,534.0,45597,12,Self-Employed,Single,No
+45,32984,,610.0,15751,48,Unemployed,Divorced,No
+53,53039,PhD,656.0,12352,36,Unemployed,Single,No
+58,105431,PhD,512.0,18516,24,Self-Employed,Single,No
+26,103691,High School,,28299,48,Unemployed,Single,No
+64,78606,,426.0,36957,48,Unemployed,Married,No
+52,30616,Masters,522.0,33927,60,Self-Employed,Divorced,No
+41,122665,High School,578.0,46094,48,Unemployed,Divorced,No
+36,125373,PhD,707.0,41412,24,Unemployed,Divorced,No
+41,70072,Bachelors,804.0,34493,24,Unemployed,Married,No
+31,44574,,593.0,31711,36,Self-Employed,Divorced,No
+57,23430,Masters,576.0,13003,36,Unemployed,Married,No
+56,139123,PhD,,36707,36,Employed,Married,Yes
+55,32676,PhD,406.0,8278,48,Employed,Divorced,No
+39,30816,Masters,719.0,12296,48,Self-Employed,Single,No
+40,52733,,728.0,30398,60,Employed,Single,Yes
+38,105680,High School,,40842,36,Self-Employed,Divorced,Yes
+61,22050,Bachelors,372.0,18261,12,Employed,Divorced,No
+34,129996,Masters,329.0,16173,60,Employed,Married,No
+35,53933,PhD,487.0,35449,12,Employed,Divorced,No
+51,44951,Bachelors,663.0,46080,48,Self-Employed,Married,Yes
+21,52413,High School,750.0,6637,60,Self-Employed,Divorced,Yes
+23,54801,Masters,494.0,36781,60,Unemployed,Single,No
+36,75619,Bachelors,455.0,18652,24,Self-Employed,Single,No
+43,52913,High School,471.0,10103,48,Employed,Divorced,No
+31,132573,Masters,340.0,30500,48,Employed,Married,No
+32,139076,High School,362.0,39800,60,Self-Employed,Single,No
+30,60600,Masters,322.0,40529,48,Self-Employed,Married,No
+52,77775,PhD,659.0,23452,60,Self-Employed,Divorced,Yes
+36,110816,Bachelors,,36174,24,Unemployed,Divorced,No
+28,149972,High School,417.0,40436,60,Employed,Single,No
+58,110093,Masters,679.0,20954,48,Unemployed,Divorced,No
+32,132590,High School,589.0,22186,48,Unemployed,Single,No
+44,55400,High School,739.0,17356,60,Employed,Married,Yes
+48,24494,Bachelors,306.0,37963,60,Employed,Single,No
+28,100688,PhD,495.0,7187,60,Self-Employed,Single,No
+48,142744,High School,720.0,16707,36,Self-Employed,Married,Yes
+56,109431,Masters,492.0,40098,48,Unemployed,Single,No
+46,94691,Masters,447.0,31935,48,Self-Employed,Single,No
+28,117419,PhD,501.0,26225,36,Self-Employed,Divorced,No
+48,128730,Masters,743.0,8606,60,Employed,Married,Yes
+48,63001,PhD,718.0,37828,24,Employed,Single,Yes
+57,87364,Masters,726.0,31489,60,Self-Employed,Married,Yes
+61,144988,Bachelors,778.0,19387,60,Employed,Married,Yes
+56,65028,High School,774.0,8927,36,Self-Employed,Single,Yes
+47,127434,,425.0,11296,48,Employed,,No
+37,117659,High School,694.0,35444,60,Employed,Married,Yes
+29,57573,High School,624.0,7591,48,Employed,Single,Yes
+53,20806,High School,691.0,49895,12,Employed,Married,No
+40,144343,Bachelors,739.0,31147,48,Self-Employed,Divorced,Yes
+33,76638,High School,503.0,43889,24,Unemployed,Divorced,No
+48,148301,Bachelors,785.0,6200,24,Employed,,Yes
+49,146295,PhD,330.0,20721,60,Self-Employed,Single,No
+33,126506,Masters,687.0,24238,48,Self-Employed,Single,Yes
+55,49757,Masters,,16087,60,Employed,Divorced,Yes
+26,54636,High School,,35816,36,Unemployed,Single,No
+38,100097,Bachelors,643.0,28408,24,Employed,Divorced,Yes
+25,68280,Masters,742.0,44740,60,Self-Employed,Single,Yes
+45,44262,Bachelors,374.0,5136,36,Unemployed,Divorced,No
+22,100435,,454.0,22413,60,Self-Employed,Married,No
+30,82211,High School,729.0,23978,48,Employed,Divorced,Yes
+50,74842,Masters,662.0,5661,48,Unemployed,Divorced,No
+25,148583,High School,747.0,40240,48,Self-Employed,Single,Yes
+53,76979,High School,533.0,32253,48,Self-Employed,Single,No
+21,134524,Masters,561.0,31884,12,Self-Employed,Single,No
+38,101470,,424.0,37854,36,Employed,Single,No
+52,58197,PhD,544.0,15704,36,Unemployed,Single,No
+31,61844,PhD,841.0,43987,48,Employed,,Yes
+41,84754,Bachelors,784.0,29527,12,Employed,,Yes
+46,121868,Masters,421.0,21322,48,Employed,Divorced,No
+45,54157,PhD,424.0,11968,12,Unemployed,Divorced,No
+42,97129,Bachelors,848.0,32518,48,Employed,Divorced,Yes
+47,60042,Bachelors,469.0,32886,24,Employed,Married,No
+33,81665,Bachelors,423.0,6700,24,Employed,Divorced,No
+53,135512,PhD,334.0,33246,60,Employed,Married,No
+54,136953,,386.0,40468,48,Self-Employed,Married,No
+61,102856,High School,500.0,28199,36,Employed,Married,No
+55,47376,Bachelors,668.0,49589,60,Self-Employed,Divorced,Yes
+21,129049,PhD,376.0,37115,24,Employed,Married,No
+41,75554,PhD,358.0,10520,48,Unemployed,Divorced,No
+26,34199,High School,730.0,49278,60,Self-Employed,Divorced,No
+48,138533,High School,799.0,41455,48,Self-Employed,Single,Yes
+37,101412,PhD,,25929,24,Self-Employed,Single,No
+25,70948,Masters,577.0,46605,60,Self-Employed,Married,No
+51,93781,High School,367.0,19955,24,Unemployed,Married,No
+25,92750,PhD,368.0,49049,12,Employed,Divorced,No
+58,86262,High School,464.0,18917,24,Self-Employed,Married,No
+23,137424,Masters,788.0,9757,48,Unemployed,Married,No
+43,66600,Bachelors,604.0,18045,36,Self-Employed,Divorced,Yes
+57,96898,High School,664.0,46680,24,Employed,,Yes
+57,82483,Masters,678.0,9733,36,Self-Employed,Married,Yes
+30,38297,PhD,642.0,35954,12,Unemployed,Divorced,No
+30,50448,High School,653.0,36135,60,Employed,Divorced,Yes
+39,46172,High School,715.0,12081,60,Unemployed,Single,No
+37,62874,,,46458,36,Employed,Divorced,No
+41,27657,Bachelors,796.0,28501,60,Employed,Single,No
+34,104386,PhD,640.0,26113,24,Employed,Married,Yes
+29,145617,High School,682.0,39441,36,Self-Employed,Divorced,Yes
+21,45425,PhD,832.0,29690,48,Unemployed,Divorced,No
+33,46685,Masters,599.0,48939,24,Unemployed,Divorced,No
+24,142000,PhD,438.0,34345,24,Unemployed,,No
+21,132855,High School,658.0,49571,24,Employed,Single,Yes
+60,44578,,798.0,31829,48,Self-Employed,Married,Yes
+52,48831,Bachelors,684.0,40062,12,Employed,Married,Yes
+54,27906,PhD,579.0,8630,60,Unemployed,Divorced,No
+48,81413,,782.0,36870,36,Self-Employed,Single,Yes
+51,74028,Masters,410.0,49942,12,Self-Employed,Married,No
+28,27287,Bachelors,438.0,8453,36,Self-Employed,Divorced,No
+59,53660,PhD,734.0,42275,60,Unemployed,Married,No
+46,95758,High School,808.0,48370,48,Self-Employed,Married,Yes
+54,80504,Bachelors,572.0,43396,24,Self-Employed,Divorced,No
+23,79720,Masters,398.0,13328,24,Employed,Divorced,No
+32,122979,Bachelors,403.0,20534,48,Employed,Single,No
+21,54701,Bachelors,513.0,24744,12,Self-Employed,Married,No
+64,103300,Bachelors,464.0,24389,12,Self-Employed,,No
+25,130177,Masters,819.0,41320,36,Employed,Divorced,Yes
+50,37674,PhD,583.0,40010,48,Employed,Single,No
+50,103560,Bachelors,816.0,19665,12,Employed,Single,Yes
+37,131543,Bachelors,463.0,42865,48,Unemployed,Divorced,No
+43,43874,High School,363.0,13640,60,Unemployed,Single,No
+35,63642,Masters,390.0,39716,24,Employed,Divorced,No
+57,143867,Bachelors,416.0,30521,24,Self-Employed,Married,No
+41,117820,Masters,566.0,35049,24,Employed,Single,No
+34,85160,Bachelors,439.0,10618,48,Unemployed,Married,No
+22,37602,PhD,545.0,42004,48,Self-Employed,Married,No
+31,123320,PhD,694.0,6920,36,Unemployed,Married,No
+59,108801,Bachelors,786.0,48937,24,Self-Employed,Divorced,Yes
+58,45931,PhD,775.0,9188,36,Unemployed,Married,No
+54,114377,Bachelors,816.0,17207,24,Self-Employed,Married,Yes
+58,49192,PhD,483.0,5238,36,Self-Employed,,No
+54,66542,High School,,37972,36,Self-Employed,Divorced,No
+38,147015,High School,,15799,60,Self-Employed,Married,Yes
+50,62520,High School,,10552,36,Unemployed,Married,No
+35,84772,Masters,446.0,33916,48,Unemployed,Single,No
+47,78762,Masters,603.0,9927,36,Self-Employed,Divorced,Yes
+54,70106,High School,527.0,32964,24,Self-Employed,Married,No
+58,101121,Masters,401.0,16164,36,Unemployed,Single,No
+53,45559,PhD,716.0,42158,12,Self-Employed,Divorced,Yes
+44,125595,Bachelors,515.0,24071,24,Self-Employed,Divorced,No
+35,53742,Bachelors,706.0,11160,12,Self-Employed,Divorced,Yes
+50,89669,Bachelors,698.0,20810,24,Employed,Divorced,Yes
+62,100199,High School,798.0,10126,48,Self-Employed,Divorced,Yes
+37,41754,Masters,764.0,35009,48,Employed,Divorced,Yes
+25,23972,,381.0,38584,48,Self-Employed,Married,No
+49,90831,PhD,664.0,30396,12,Unemployed,Married,No
+24,132217,High School,462.0,5192,60,Employed,Married,No
+30,61873,PhD,347.0,41413,24,Employed,Married,No
+37,114661,PhD,810.0,17816,48,Self-Employed,Single,Yes
+30,126532,PhD,628.0,44082,24,Self-Employed,Married,Yes
+37,146267,PhD,415.0,37130,12,Employed,Divorced,No
+40,29903,Masters,636.0,45142,60,Unemployed,,No
+44,23020,PhD,446.0,41468,12,Unemployed,Married,No
+25,61755,Bachelors,622.0,35698,24,Self-Employed,Divorced,Yes
+54,105956,,742.0,15655,60,Unemployed,Married,No
+26,106988,Masters,312.0,35075,60,Unemployed,Married,No
+22,65648,PhD,793.0,14359,12,Self-Employed,,Yes
+33,123537,Masters,586.0,41661,48,Unemployed,Single,No
+63,145991,PhD,413.0,44579,24,Self-Employed,Married,No
+63,29516,Bachelors,779.0,47056,36,Employed,Divorced,No
+31,132863,High School,321.0,38272,36,Self-Employed,Divorced,No
+43,135005,PhD,648.0,47581,12,Employed,Married,Yes
+36,22396,PhD,619.0,19671,24,Employed,Married,No
+51,104082,PhD,425.0,32048,24,Unemployed,Married,No
+31,39129,,576.0,15738,12,Unemployed,Divorced,No
+36,148322,High School,503.0,30963,24,Unemployed,Divorced,No
+28,21591,High School,493.0,48954,48,Self-Employed,Single,No
+24,31303,,846.0,11773,12,Unemployed,Single,No
+60,50561,,585.0,41584,48,Employed,Single,No
+24,91719,PhD,356.0,34894,24,Unemployed,Divorced,No
+45,138618,Bachelors,602.0,5717,12,Unemployed,Single,No
+23,112108,Bachelors,462.0,16676,24,Self-Employed,Married,No
+52,148748,Bachelors,318.0,9434,12,Self-Employed,Married,No
+23,119616,PhD,669.0,42825,24,Employed,Divorced,Yes
+47,144165,Masters,563.0,34100,48,Self-Employed,Single,No
+49,106231,PhD,412.0,9994,48,Unemployed,Married,No
+52,27314,High School,787.0,9234,24,Self-Employed,Divorced,No
+39,137071,High School,626.0,8764,12,Employed,Single,Yes
+41,39623,PhD,841.0,48949,36,Unemployed,Married,No
+25,87675,PhD,364.0,42405,48,Employed,Single,No
+38,132992,Bachelors,591.0,39872,48,Self-Employed,Divorced,No
+48,116826,PhD,324.0,47215,36,Self-Employed,Single,No
+62,85082,Bachelors,848.0,28185,24,Employed,Divorced,Yes
+42,149839,High School,,48442,12,Unemployed,Single,No
+41,103624,Bachelors,848.0,46153,24,Self-Employed,,Yes
+26,125228,PhD,440.0,16999,60,Self-Employed,Divorced,No
+21,53130,High School,487.0,41487,48,Unemployed,Divorced,No
+25,71756,Masters,427.0,7581,60,Self-Employed,Divorced,No
+61,117624,Bachelors,500.0,7763,48,Employed,Single,No
+32,46292,,426.0,32374,48,Self-Employed,Single,No
+46,131785,Bachelors,556.0,43759,60,Self-Employed,Married,No
+54,147331,High School,846.0,15531,60,Unemployed,Divorced,No
+34,106206,High School,493.0,30307,24,Employed,Divorced,No
+46,89274,Bachelors,403.0,35835,60,Unemployed,Single,No
+47,22469,Masters,834.0,16064,24,Self-Employed,Single,No
+29,73947,High School,564.0,16312,24,Self-Employed,Married,No
+46,42534,High School,683.0,42548,24,Unemployed,Married,No
+42,83620,High School,559.0,41945,48,Unemployed,Single,No
+50,68874,,713.0,11476,48,Unemployed,Divorced,No
+63,69708,Masters,657.0,29565,60,Employed,Married,Yes
+37,94553,PhD,374.0,7382,48,Self-Employed,Single,No
+46,88344,Bachelors,654.0,27463,60,Unemployed,Single,No
+56,69138,Masters,487.0,38402,48,Self-Employed,Divorced,No
+21,74302,Bachelors,589.0,31345,12,Employed,Single,No
+28,67638,PhD,344.0,49764,12,Employed,Single,No
+55,98249,Bachelors,382.0,31946,60,Employed,Married,No
+35,125865,,422.0,19162,48,Employed,Single,No
+42,22719,Bachelors,657.0,13397,48,Self-Employed,,No
+34,42890,Masters,827.0,27335,24,Employed,Married,Yes
+46,97236,Bachelors,365.0,19394,36,Employed,Divorced,No
+48,56509,Masters,674.0,32197,60,Unemployed,Divorced,No
+43,62534,Masters,461.0,27010,36,Employed,Married,No
+34,122302,Bachelors,679.0,29123,36,Unemployed,Married,No
+44,112241,PhD,657.0,27387,60,Employed,Divorced,Yes
+22,38787,High School,487.0,7890,48,Employed,Divorced,No
+46,146209,PhD,621.0,32769,60,Unemployed,Divorced,No
+34,68845,Bachelors,749.0,48626,36,Employed,,Yes
+27,77932,PhD,773.0,13026,48,Self-Employed,Divorced,Yes
+23,112124,Masters,312.0,8306,12,Self-Employed,Married,No
+43,111659,High School,483.0,38665,60,Employed,Single,No
+63,53062,Bachelors,410.0,14277,60,Self-Employed,Divorced,No
+38,95713,Bachelors,807.0,47239,48,Unemployed,Divorced,No
+58,107263,Bachelors,589.0,19683,12,Employed,Single,No
+55,115756,High School,594.0,5670,12,Employed,Single,No
+35,80461,Masters,750.0,28675,48,Unemployed,Single,No
+45,95418,Bachelors,514.0,22889,24,Unemployed,Single,No
+57,86672,PhD,326.0,49535,60,Unemployed,Single,No
+48,148232,Bachelors,530.0,18006,60,Employed,Single,No
+30,54832,Bachelors,620.0,31531,36,Unemployed,,No
+59,147335,Bachelors,532.0,26639,48,Unemployed,Single,No
+37,51966,Bachelors,736.0,21633,36,Self-Employed,,Yes
+59,92545,Masters,832.0,39660,36,Self-Employed,Married,Yes
+42,32987,PhD,702.0,8439,12,Employed,Single,No
+46,57311,Masters,352.0,37172,60,Self-Employed,Divorced,No
+64,51575,PhD,612.0,40622,36,Self-Employed,Divorced,Yes
+45,83852,Bachelors,580.0,16577,12,Unemployed,,No
+37,147650,High School,330.0,16763,48,Unemployed,Married,No
+33,21007,Masters,636.0,25176,36,Self-Employed,Divorced,No
+40,90981,High School,482.0,49386,60,Self-Employed,Married,No
+45,96242,Masters,322.0,29255,36,Self-Employed,Divorced,No
+24,67517,Bachelors,843.0,46003,48,Employed,Single,Yes
+30,130022,Masters,745.0,24996,36,Employed,Married,Yes
+23,49257,Bachelors,373.0,40386,60,Employed,Married,No
+61,107272,Masters,309.0,26062,12,Self-Employed,Married,No
+38,62207,Bachelors,783.0,40931,60,Self-Employed,Divorced,Yes
+56,33281,Bachelors,,40710,12,Employed,Divorced,No
+42,81246,PhD,459.0,39693,24,Employed,Divorced,No
+54,21435,,,40740,60,Self-Employed,Single,No
+28,118875,PhD,477.0,16705,60,Unemployed,Divorced,No
+60,120686,Bachelors,711.0,48408,48,Employed,Single,Yes
+64,111357,High School,352.0,33047,36,Self-Employed,Married,No
+39,46660,Bachelors,707.0,15966,12,Self-Employed,Married,Yes
+62,25084,High School,321.0,22374,12,Unemployed,Single,No
+61,102197,High School,329.0,16138,48,Self-Employed,Divorced,No
+57,33507,Bachelors,559.0,20935,48,Self-Employed,Single,No
+26,92595,High School,504.0,5489,36,Employed,Married,No
+46,103807,PhD,358.0,49516,36,Employed,Married,No
+54,65539,Masters,770.0,27260,60,Unemployed,Single,No
+26,135953,Bachelors,765.0,31069,24,Unemployed,Divorced,No
+57,27491,High School,311.0,24275,36,Self-Employed,Divorced,No
+53,147706,Bachelors,589.0,41284,48,Employed,Single,No
+42,132831,PhD,653.0,44178,36,Unemployed,,No
+41,70192,Bachelors,,37821,12,Unemployed,Divorced,No
+26,100395,Bachelors,740.0,21999,24,Unemployed,Married,No
+26,143797,,540.0,43712,60,Self-Employed,Single,No
+24,83888,PhD,453.0,45172,12,Employed,Divorced,No
+50,93609,Masters,395.0,38722,12,Unemployed,Divorced,No
+31,29077,Masters,593.0,15625,24,Employed,Married,No
+50,137440,High School,508.0,6629,60,Unemployed,Married,No
+51,142901,Bachelors,642.0,15973,48,Unemployed,Married,No
+44,40953,High School,387.0,11859,60,Employed,Married,No
+29,96919,High School,689.0,46609,36,Employed,Married,Yes
+23,134682,High School,624.0,48307,12,Employed,,Yes
+51,141041,Bachelors,456.0,41046,36,Self-Employed,Divorced,No
+60,87889,PhD,436.0,26839,48,Unemployed,Single,No
+57,43821,,727.0,32216,36,Self-Employed,Single,Yes
+56,57567,Bachelors,751.0,23945,60,Employed,Single,Yes
+44,135374,PhD,440.0,11539,36,Unemployed,,No
+51,44860,High School,382.0,38625,48,Self-Employed,Single,No
+26,41195,Masters,476.0,9886,48,Unemployed,Married,No
+22,97475,PhD,497.0,12485,48,Self-Employed,Married,No
+40,110874,High School,720.0,36455,60,Employed,Divorced,Yes
+48,107266,PhD,700.0,21767,48,Self-Employed,Single,Yes
+31,41427,PhD,770.0,33453,12,Unemployed,Divorced,No
+24,120732,PhD,517.0,15744,48,Unemployed,Married,No
+35,47083,PhD,474.0,42102,36,Unemployed,Married,No
+26,107046,PhD,322.0,17226,36,Unemployed,Married,No
+50,77372,PhD,534.0,32869,36,Employed,Single,No
+58,143786,High School,312.0,27588,60,Self-Employed,Single,No
+22,64064,Masters,400.0,18440,36,Employed,Married,No
+35,27813,Bachelors,835.0,36709,60,Employed,Divorced,No
+31,51598,PhD,822.0,27495,60,Employed,Divorced,Yes
+28,132718,Bachelors,751.0,42019,48,Unemployed,Married,No
+46,146879,High School,730.0,49948,12,Unemployed,Divorced,No
+64,113106,,832.0,5922,48,Unemployed,Married,No
+25,47082,Masters,592.0,32526,48,Self-Employed,Divorced,No
+26,49241,Bachelors,400.0,12957,60,Unemployed,Married,No
+46,116214,PhD,801.0,38998,60,Self-Employed,Divorced,Yes
+24,64569,High School,603.0,48395,36,Unemployed,Single,No
+39,31745,Masters,839.0,29031,36,Unemployed,Married,No
+40,46029,Bachelors,654.0,15006,48,Employed,Married,Yes
+53,33025,Bachelors,602.0,42701,24,Employed,Divorced,No
+40,121660,PhD,795.0,30939,24,Employed,Married,Yes
+32,143395,Masters,526.0,25324,36,Self-Employed,Married,No
+21,34288,Masters,535.0,27867,24,Self-Employed,Married,No
+46,109186,Masters,754.0,5203,36,Unemployed,Single,No
+34,26540,Masters,312.0,21544,60,Self-Employed,Single,No
+58,117768,High School,509.0,20899,48,Unemployed,Divorced,No
+57,101958,Masters,696.0,34063,12,Self-Employed,Single,Yes
+31,88878,Bachelors,399.0,30344,48,Self-Employed,Divorced,No
+56,61846,Bachelors,330.0,8748,36,Self-Employed,Single,No
+33,121148,High School,827.0,44486,36,Employed,Divorced,Yes
+63,95932,Bachelors,628.0,6093,48,Self-Employed,Single,Yes
+23,37482,Bachelors,465.0,20228,36,Employed,Single,No
+53,43411,Masters,758.0,25884,24,Employed,Divorced,Yes
+26,70975,Bachelors,399.0,30183,24,Self-Employed,Married,No
+30,80545,High School,,21034,36,Unemployed,Married,No
+25,132302,Masters,461.0,10710,36,Unemployed,Single,No
+43,98797,PhD,562.0,47500,24,Unemployed,Divorced,No
+30,72307,Masters,573.0,24259,36,Self-Employed,Married,No
+64,23093,High School,302.0,40959,36,Unemployed,Divorced,No
+22,97258,Masters,327.0,38457,48,Employed,Married,No
+33,42042,Masters,625.0,25143,12,Unemployed,,No
+60,72930,High School,448.0,7103,24,Self-Employed,Single,No
+22,137584,Masters,839.0,5365,48,Unemployed,Divorced,No
+40,64413,High School,787.0,49535,12,Employed,Married,Yes
+21,133387,High School,737.0,21103,36,Self-Employed,Single,Yes
+57,113623,PhD,,37510,36,Unemployed,Divorced,No
+29,117883,Bachelors,655.0,29476,48,Self-Employed,Married,Yes
+37,53756,Bachelors,832.0,17742,36,Self-Employed,Single,Yes
+29,73268,Masters,551.0,17391,60,Self-Employed,Divorced,No
+31,59214,Masters,534.0,41940,48,Unemployed,Married,No
+35,101871,PhD,526.0,33901,12,Self-Employed,Divorced,No
+44,147844,PhD,,37001,48,Unemployed,Divorced,No
+58,48602,PhD,612.0,20623,24,Employed,Single,Yes
+55,73331,High School,348.0,7378,48,Unemployed,Single,No
+50,68901,PhD,417.0,26372,36,Employed,Married,No
+51,119986,PhD,353.0,49799,36,Unemployed,Single,No
+25,83416,Masters,343.0,43437,60,Self-Employed,Married,No
+64,52196,,352.0,40503,60,Unemployed,Divorced,No
+34,148386,,824.0,35746,60,Self-Employed,Divorced,Yes
+31,25626,High School,401.0,32923,12,Employed,Married,No
+29,27424,Masters,697.0,14867,60,Unemployed,Divorced,No
+54,32857,PhD,437.0,46258,12,Self-Employed,Single,No
+32,130459,,686.0,38724,60,Employed,Divorced,Yes
+55,135621,High School,410.0,14306,12,Employed,Single,No
+55,39982,PhD,316.0,44391,48,Unemployed,Married,No
+21,96961,PhD,481.0,19908,48,Employed,Married,No
+60,21980,PhD,835.0,32081,36,Self-Employed,Divorced,No
+42,68290,Bachelors,840.0,42228,12,Employed,Divorced,Yes
+49,46431,Masters,470.0,28386,24,Employed,Single,No
+28,104976,Bachelors,708.0,33302,36,Self-Employed,Single,Yes
+31,127288,,677.0,24212,48,Employed,Divorced,Yes
+61,102711,High School,,40618,12,Employed,Divorced,No
+57,134187,PhD,529.0,15698,60,Employed,Married,No
+34,46385,Masters,418.0,9594,24,Employed,Married,No
+50,58158,Bachelors,,30525,48,Self-Employed,Married,No
+55,43019,PhD,764.0,19282,36,Employed,Divorced,Yes
+41,38639,High School,403.0,19334,12,Self-Employed,Divorced,No
+57,105530,Masters,801.0,34179,24,Employed,Divorced,Yes
+25,119911,Masters,474.0,11644,12,Employed,Married,No
+39,41563,Masters,720.0,40618,60,Employed,Divorced,Yes
+34,59341,PhD,433.0,37933,36,Employed,Single,No
+46,135672,Bachelors,690.0,48469,12,Self-Employed,Divorced,Yes
+24,25776,Bachelors,800.0,38687,48,Self-Employed,Divorced,No
+45,56444,Masters,332.0,46073,36,Self-Employed,Divorced,No
+62,88916,High School,354.0,22375,48,Unemployed,Divorced,No
+45,28711,High School,818.0,35926,12,Employed,,No
+38,94318,Bachelors,311.0,41607,36,Employed,Single,No
+60,102970,High School,827.0,22642,48,Self-Employed,Single,Yes
+28,132301,Bachelors,672.0,28993,60,Unemployed,Divorced,No
+59,105553,Masters,783.0,49386,60,Employed,Married,Yes
+60,50707,Bachelors,527.0,26188,12,Self-Employed,,No
+34,59110,Bachelors,606.0,37596,36,Employed,Divorced,Yes
+52,149410,Masters,756.0,32772,24,Employed,Divorced,Yes
+58,81788,High School,459.0,35857,36,Self-Employed,,No
+53,102879,Bachelors,630.0,15776,60,Self-Employed,Married,Yes
+43,58827,Bachelors,524.0,37835,48,Employed,Married,No
+35,127188,,803.0,14788,24,Employed,Single,Yes
+53,25655,High School,755.0,10660,12,Self-Employed,Married,No
+45,64859,Bachelors,344.0,9478,24,Employed,Single,No
+37,73625,Masters,513.0,13210,12,Employed,,No
+53,72098,Bachelors,358.0,15922,24,Self-Employed,Married,No
+22,35251,PhD,494.0,41289,12,Employed,Married,No
+34,142413,Masters,788.0,38340,12,Employed,Married,Yes
+60,20526,High School,,44850,24,Unemployed,Single,No
+60,88760,High School,525.0,43163,24,Self-Employed,Divorced,No
