@@ -21,6 +21,7 @@ This project predicts whether a loan applicant should be granted a loan based on
 - `README.md`: Project instructions and documentation.
 - `requirements.txt`: Python dependencies.
 - `.gitignore`: (Recommended) To exclude unnecessary files like `__pycache__/`, `.ipynb_checkpoints/`, etc.
+- `photos/`: Folder for screenshots and output images.
 
 ## Setup
 1. Clone the repository.
@@ -49,6 +50,11 @@ Run the CLI tool and follow the prompts:
 ```bash
 python loan_predict_cli.py
 ```
+
+## Output Screenshot
+Below is a sample output from the Streamlit app:
+
+![Loan Eligibility Predictor Output](photos/loan.png)
 
 ## Requirements
 See `requirements.txt` for Python package dependencies.
